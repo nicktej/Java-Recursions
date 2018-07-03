@@ -1,4 +1,4 @@
-# java-recursion
+# Java Recursions
 I made some fun Java recursive programs (graphical and numerical). Some of these were done in my CS2 class, others on my own to practice.
 
 ![alt text](https://github.com/nicktej/java-recursion/blob/master/Tree1.png)
